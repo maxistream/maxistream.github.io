@@ -1,2 +1,2 @@
-# Максуд Муминов
-Мои дзшки 
+# Diary
+I did this, didn't do this 
